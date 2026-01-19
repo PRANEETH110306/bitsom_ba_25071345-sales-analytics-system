@@ -1,0 +1,12 @@
+Removed Records Report
+----------------------
+T075|2024-12-10|P106|Headphones|0|2826|C001|South  -->  Quantity ≤ 0
+T072|2024-12-26|P103|Keyboard|3|2488||South  -->  Missing CustomerID or Region
+T076|2024-12-11|P107|USB Cable|5|-459|C025|East  -->  UnitPrice ≤ 0
+T077|2024-12-13|P109|Wireless Mouse|9|-998|C001|North  -->  UnitPrice ≤ 0
+T073|2024-12-26|P107|USB Cable|4|236||North  -->  Missing CustomerID or Region
+X2|2024-12-07|P110|Laptop Charger|5|1590|C023|West  -->  TransactionID does not start with 'T'
+T071|2024-12-29|P109|Wireless Mouse|7|1771|C024|  -->  Missing CustomerID or Region
+X611|2024-12-06|P105|Webcam|10|3087|C002|North  -->  TransactionID does not start with 'T'
+X395|2024-12-12|P107|USB Cable|6|323|C020|North  -->  TransactionID does not start with 'T'
+T074|2024-12-28|P101|Laptop|0|59577|C007|West  -->  Quantity ≤ 0
